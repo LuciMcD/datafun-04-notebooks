@@ -1,5 +1,5 @@
 #### IGNORE / DON't COMMIT THESE FILES TO THE REPO
-
+##copied from https://github.com/denisecase/datafun-04-notebooks/tree/main 
 # Files with secrets (e.g. our email and password)
 
 .env
